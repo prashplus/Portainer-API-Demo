@@ -1,4 +1,4 @@
-# Portainer API Demo
+# Portainer API Demo [![Build status](https://ci.appveyor.com/api/projects/status/ty38jhg8h7ref21c/branch/master?svg=true)](https://ci.appveyor.com/project/prashplus/portainer-api-demo/branch/master)
 
 This repository gives a referece for those who are looking for the simple APIs to control Docker instances. This project is using Portainer APIs to call docker deamon. Why? Cause Portainer API are very easy to implement than the docker ones.
 
